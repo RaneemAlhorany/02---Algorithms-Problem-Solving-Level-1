@@ -1,9 +1,87 @@
-# 02---Algorithms-Problem-Solving-Level-1
+````markdown
+# 🧩 Algorithms & Problem Solving Level 1
 
-02 - Algorithms  & Problem-Solving Level 1 
+> My complete solutions, notes, and implementations for the **Algorithms & Problem Solving Level 1** course by **Mohammed Abu-Hadhoud**.
 
-It's Abu Hudhud's course for developers.
+---
 
-Contains 50 questions to solve from easy to difficult.
+## 📖 About the Course
 
-![2](https://github.com/user-attachments/assets/fb1fb8b0-2a5c-4e4e-b03e-67e4915c3a0d)
+This repository contains everything I completed during the **Algorithms & Problem Solving Level 1** course, including:
+
+- 📚 Complete course notes
+- 💻 Source code for all examples
+- ✅ Solutions to all programming exercises
+- 🧠 Problem-solving techniques
+- 📄 Personal summaries and explanations
+
+The main objective of this course is to build strong analytical thinking and problem-solving skills before moving on to advanced software engineering topics.
+
+---
+
+## 🎯 What You'll Learn
+
+- Algorithmic Thinking
+- Problem Analysis
+- Flowcharts
+- Pseudocode
+- Variables & Data Types
+- Operators
+- Input & Output
+- Decision Making
+- Loops
+- Functions
+- Arrays
+- Strings
+- Mathematical Algorithms
+- Debugging Techniques
+- Programming Best Practices
+
+---
+
+## 📂 Repository Structure
+
+```text
+Algorithms-Problem-Solving-Level-1
+│
+├── README.md
+├── Notes/
+├── Source Code/
+├── Exercises/
+├── Solutions/
+└── Resources/
+```
+
+---
+
+## 🛠 Technologies
+
+- C++
+- Visual Studio
+- Git
+- GitHub
+
+---
+
+## 🎓 Course Information
+
+| Item | Details |
+|------|---------|
+| Instructor | Mohammed Abu-Hadhoud |
+| Course | Algorithms & Problem Solving Level 1 |
+| Language | C++ |
+| Level | Beginner |
+| Status | ✅ Completed |
+
+---
+
+## ⭐ Repository Goal
+
+This repository serves as a personal knowledge base and a reference for anyone interested in learning algorithms, programming fundamentals, and problem-solving through practical C++ examples.
+
+---
+
+## 📜 License
+
+This repository is intended for educational purposes only.
+````
