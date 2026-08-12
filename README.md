@@ -41,17 +41,6 @@ The main objective of this course is to build strong analytical thinking and pro
 
 ## 📂 Repository Structure
 
-```text
-Algorithms-Problem-Solving-Level-1
-│
-├── README.md
-├── Notes/
-├── Source Code/
-├── Exercises/
-├── Solutions/
-└── Resources/
-```
-
 ---
 
 ## 🛠 Technologies
