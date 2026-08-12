@@ -39,9 +39,6 @@ The main objective of this course is to build strong analytical thinking and pro
 
 ---
 
-## 📂 Repository Structure
-
----
 
 ## 🛠 Technologies
 
